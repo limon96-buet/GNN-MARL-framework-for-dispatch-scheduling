@@ -1,0 +1,13 @@
+{
+  "hidden_dim": 64,
+  "lr_actor": 1.3400367243354803e-05,
+  "lr_critic": 0.0002879775265707035,
+  "gamma": 0.30892415592540967,
+  "gae_lambda": 0.6931258694211608,
+  "clip_ratio": 0.2275114942710426,
+  "entropy_coef": 0.0045881565491609705,
+  "team_reward_weight": 0.7361074625809747,
+  "n_action_basis": 8,
+  "obs_embed_dim": 2,
+  "best_val_reward": -1.5926757577785116
+}

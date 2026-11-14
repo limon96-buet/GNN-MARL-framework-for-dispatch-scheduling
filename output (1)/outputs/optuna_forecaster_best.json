@@ -1,0 +1,9 @@
+{
+  "gcn_hidden": 128,
+  "lstm_hidden": 256,
+  "dropout": 0.1422772674924288,
+  "lr": 0.0015308837415731389,
+  "batch_size": 64,
+  "weight_decay": 3.945908811099999e-06,
+  "best_val_rmse_mw": 172.41746520996094
+}
